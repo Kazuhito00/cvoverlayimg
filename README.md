@@ -1,5 +1,7 @@
 # cvoverlayimg
- cvoverlayimg‚ÍOpenCV‚Å“§‰ßPNG‚ğ‰æ‘œ‚Ìã‚Éd‚Ë‡‚í‚¹‚éƒNƒ‰ƒX‚Å‚·B
+ cvoverlayimgã¯OpenCVã§é€éPNGã‚’ç”»åƒã®ä¸Šã«é‡ã­åˆã‚ã›ã‚‹ã‚¯ãƒ©ã‚¹ã§ã™ã€‚
+ 
+ ![2020-02-18 (1)](https://user-images.githubusercontent.com/37477845/74670515-b04a1c00-51ec-11ea-90bc-f09e9d1ae96d.png)
 
 # Requirement
  
@@ -8,22 +10,22 @@
  
 # Installation
  
-—˜—p‚µ‚½‚¢PythonƒvƒƒOƒ‰ƒ€‚Æ“¯ŠK‘w‚ÉcvoverlayimgƒfƒBƒŒƒNƒgƒŠ‚ğƒRƒs[‚µ‚Ä‚­‚¾‚³‚¢B
+åˆ©ç”¨ã—ãŸã„Pythonãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¨åŒéšå±¤ã«cvoverlayimgãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ãã ã•ã„ã€‚
  
 # Usage
  
-ƒTƒ“ƒvƒ‹‚ÌÀs•û–@‚ÍˆÈ‰º‚Å‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®å®Ÿè¡Œæ–¹æ³•ã¯ä»¥ä¸‹ã§ã™ã€‚
  
 ```bash
 python sample.py
 ```
 
 # Note
-ƒTƒ“ƒvƒ‹‚Ì‰æ‘œ‚Í‚¢‚ç‚·‚Æ‚â—l‚ğg—p‚µ‚Ä‚¢‚Ü‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®ç”»åƒã¯ã„ã‚‰ã™ã¨ã‚„æ§˜ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 https://www.irasutoya.com/
 
 # Author
-‚‹´‚©‚¸‚Ğ‚Æ
+é«˜æ©‹ã‹ãšã²ã¨
  
 # License 
 cvfpscalc is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).

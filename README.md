@@ -28,5 +28,5 @@ https://www.irasutoya.com/
 高橋かずひと
  
 # License 
-cvfpscalc is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
